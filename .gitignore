@@ -12,7 +12,7 @@ target/
 *.iml
 *.ipr
 mvnw.cmd
-mvnm
+mvnw
 
 ### Eclipse ###
 .apt_generated
